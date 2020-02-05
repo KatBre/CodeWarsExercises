@@ -9,6 +9,11 @@ public class Main {
         System.out.println(NumberCatcher.isNumber("  3   5"));
         System.out.println(CalculateBMI.bmi(58.5, 168));
         System.out.println(CreateList.CreateList(8));
+        System.out.println(HQ.HQ9('H'));
+        System.out.println(HQ.HQ9('Q'));
+        System.out.println(HQ.HQ9('1'));
+        System.out.println(HQ.HQ9('9'));
+
 
 
 
