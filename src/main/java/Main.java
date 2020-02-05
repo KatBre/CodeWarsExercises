@@ -3,8 +3,10 @@ import java.util.Random;
 public class Main {
 
     public static void main(String[] args) {
-
+        System.out.println(APlusB.sum(4,6));
         System.out.println(EvenOrOdd.even_or_odd(5));
+        System.out.println(NumberCatcher.isNumber("-3.23"));
+        System.out.println(NumberCatcher.isNumber("  3   5"));
 
 
 
