@@ -7,6 +7,8 @@ public class Main {
         System.out.println(EvenOrOdd.even_or_odd(5));
         System.out.println(NumberCatcher.isNumber("-3.23"));
         System.out.println(NumberCatcher.isNumber("  3   5"));
+        System.out.println(CalculateBMI.bmi(58.5, 168));
+        System.out.println(CreateList.CreateList(8));
 
 
 
